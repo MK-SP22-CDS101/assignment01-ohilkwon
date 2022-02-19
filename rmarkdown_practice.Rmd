@@ -33,6 +33,6 @@ Section 001
 # Course Goals
 By the end of the course, students will be able to:
 
-  * Use GitHub for creating a reproducible research document.
+  * Use [GitHub](https://github.com/) for creating a reproducible research document.
     - My GitHub username is: *ohilkwon*
     
